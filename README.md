@@ -1,17 +1,18 @@
 
-## Psiclone: Toolbox for Topological Flow Data Analysis using COT Representations
+## `psiclone`: Toolbox for Topological Flow Data Analysis using COT Representations
 
-Psiclone is a Python library, which is under development, for Topological Flow Data Analysis (TFDA).
+`psiclone` is a Python library for Topological Flow Data Analysis (TFDA).
 
-It is not public yet but free for academic use.
+It is under development and not public yet but free for academic use.
 Please make a contact to me if you want an academic trial version of `psiclone`.
 
-Author: Tomoki UDA ( `replace(my_github_id, '-', '_')` @tohoku.ac.jp )
+Author: Tomoki UDA < `replace(my_github_id, '-', '_')` @ `tohoku.ac.jp` >
 
 ### References
 
-* T. Uda, T. Yokoyama and T. Sakajo, Algorithms converting streamline topologies for 2D Hamiltonian vector fields using Reeb graphs and persistent homology, preprint (in Japanese).
+Please cite the following article when you publish your research results using `psiclone`.
 
+* T. Uda, T. Yokoyama and T. Sakajo, Algorithms converting streamline topologies for 2D Hamiltonian vector fields using Reeb graphs and persistent homology, TJSIAM, 2019, Volume 29, Issue 2, pp. 187--224, [DOI:10.11540/jsiamt.29.2_187](https://doi.org/10.11540/jsiamt.29.2_187) (in Japanese).
 
 ### Related Patents
 
