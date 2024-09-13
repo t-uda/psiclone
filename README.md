@@ -6,7 +6,8 @@
 It is under development and not public yet but free for academic use.
 Please make a contact to me if you want an academic trial version of `psiclone`.
 
-Author: Tomoki UDA < `replace(my_github_id, '-', '_')` @ `tohoku.ac.jp` >
+Author: Tomoki UDA < `uda` {n} @ `sci.u-toyama.ac.jp` >
+where n denotes the minimum cardinal number.
 
 ### References
 
