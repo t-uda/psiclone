@@ -1,13 +1,26 @@
 
-## `psiclone`: Toolbox for Topological Flow Data Analysis using COT Representations
+## Project `psiclone`: Toolbox for Topological Flow Data Analysis using COT Representations
 
 `psiclone` is a Python library for Topological Flow Data Analysis (TFDA).
 
 It is under development and not public yet but free for academic use.
-Please make a contact to me if you want an academic trial version of `psiclone`.
+Please make a contact to me if you want an academic version of `psiclone`.
 
-Author: Tomoki UDA < `uda` {n} @ `sci.u-toyama.ac.jp` >
+Author: Tomoki UDA < `uda` {n} @ `nanzan-u.ac.jp` >
 where n denotes the minimum cardinal number.
+
+### `psiclone` (version 1)
+
+* [Web document of the earlier version of `psiclone`](https://psiclone.tfda.jp/)
+
+### `T2-psiclone` (torus version)
+
+* T<sup>2</sup>-psiclone is specialized to the flat torus geomery (namely, T<sup>2</sup>).
+
+### `psiclone2` (version 2)
+
+* `psiclone2` is a fast, stable and reliable version.
+* Web document is under construction!
 
 ### References
 
