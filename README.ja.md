@@ -1,13 +1,25 @@
 
-## COT表現による流線トポロジー解析ライブラリ: `psiclone`
+## プロジェクト　`psiclone`: COT表現による流線トポロジー解析ライブラリ
 
 `psiclone` は，流線トポロジー解析 (Topological Flow Data Analysis = TFDA) のための Python ライブラリーです．
 
 現在開発途上であり公開はしていませんが，学術用途でのご利用に関してのみ無償での使用を許可しています．
 学術用途で `psiclone` のご利用をご希望の方は下記までご連絡ください．
 
-開発者: 宇田 智紀 < `uda` {n} @ `sci.u-toyama.ac.jp` >
+開発者: 宇田 智紀 < `uda` {n} @ `nanzan-u.ac.jp` >
 （ただし n には最小の基数を代入してください．）
+
+### `psiclone` (version 1)
+
+* [Web ドキュメント](https://psiclone.tfda.jp)
+
+### `T2-psiclone` (トーラス版)
+
+* T<sup>2</sup>-psiclone はフラットトーラス (T<sup>2</sup>) 特化のバージョンです．
+
+### `psiclone2` (version 2)
+
+* 高速・安定でより信頼できる `psiclone2` の Web ドキュメントも公開準備中です！
 
 ### References
 
